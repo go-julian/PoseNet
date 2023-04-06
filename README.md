@@ -1,1 +1,1 @@
-# PoseNet
+npm install @tensorflow/tfjs @tensorflow-models/posenet react-webcam
